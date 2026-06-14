@@ -1,0 +1,16 @@
+"name": "Sistem Kasir Laundry Pintar",
+"description": "Aplikasi pembukuan dan kasir untuk usaha Laundry",
+"icons": [
+{
+"src": "https://raw.githubusercontent.com/kassqu/DemoApp1/refs/heads/main/logo.png",
+"type": "image/png",
+"sizes": "192x192"
+},
+{
+"src": "https://raw.githubusercontent.com/kassqu/DemoApp1/refs/heads/main/logo.png",
+"type": "image/png",
+"sizes": "512x512"
+}
+],
+"start_url": ".",
+"display": "standalone",
